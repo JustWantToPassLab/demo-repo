@@ -1,0 +1,45 @@
+[{
+  "file": "/Users/mariannaadami/Desktop/finale/finale/main.cpp",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/main.cpp -o /Users/mariannaadami/Desktop/finale/finale/main.cpp.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/esplorazione.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/esplorazione.h -o /Users/mariannaadami/Desktop/finale/finale/esplorazione.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/coordinate.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/coordinate.h -o /Users/mariannaadami/Desktop/finale/finale/coordinate.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/nave.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/nave.h -o /Users/mariannaadami/Desktop/finale/finale/nave.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/nave.cpp",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/nave.cpp -o /Users/mariannaadami/Desktop/finale/finale/nave.cpp.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/soccorso.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/soccorso.h -o /Users/mariannaadami/Desktop/finale/finale/soccorso.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/esplorazione.cpp",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/esplorazione.cpp -o /Users/mariannaadami/Desktop/finale/finale/esplorazione.cpp.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/corazzata.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/corazzata.h -o /Users/mariannaadami/Desktop/finale/finale/corazzata.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/griglia.h",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/griglia.h -o /Users/mariannaadami/Desktop/finale/finale/griglia.h.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/coordinate.cpp",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/coordinate.cpp -o /Users/mariannaadami/Desktop/finale/finale/coordinate.cpp.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/mariannaadami/Desktop/finale/finale/griglia.cpp",
+  "directory": "/Users/mariannaadami/Desktop/finale/finale",
+  "command": "g++ -c /Users/mariannaadami/Desktop/finale/finale/griglia.cpp -o /Users/mariannaadami/Desktop/finale/finale/griglia.cpp.o -target x86_64-apple-darwin21.6.0 -I. -I.  -g  -O0  -Wall"
+ }]

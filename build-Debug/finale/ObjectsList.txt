@@ -1,0 +1,1 @@
+../build-Debug/finale/griglia.cpp.o ../build-Debug/finale/esplorazione.cpp.o ../build-Debug/finale/main.cpp.o ../build-Debug/finale/coordinate.cpp.o ../build-Debug/finale/nave.cpp.o   
