@@ -30,7 +30,7 @@ coordinate::coordinate(int x, int y)
 coordinate::coordinate(std::string str)
 {
     char col = str[0];
-    col = toupper(col);
+    col = toupper(col+1);
     
      if(col>='A' && col<='I')
         {
