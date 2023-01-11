@@ -1,5 +1,5 @@
 #include "griglia.h"
-
+//cuso
 griglia::griglia()
 {}
 
